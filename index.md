@@ -16,7 +16,7 @@ Von Frühjahr bis Herbst treffen wir uns jeden Dienstag ab 15 Uhr und jeden Frei
 
 ### Lage
 
-Der Geminschaftsgarten befindet sich [zwischen dem Wildemuthgymnasium und dem 3-in-1 Bewegungspark](https://www.google.de/maps/@48.5154661,9.0471768,212m/data=!3m1!1e3). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
+Der Geminschaftsgarten befindet sich [zwischen dem Wildemuthgymnasium und dem 3-in-One Bewegungspark](https://www.google.de/maps/@48.5154661,9.0471768,212m/data=!3m1!1e3). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
 
 ### Ausgaben
 
