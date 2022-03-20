@@ -22,5 +22,7 @@ In den letzten Jahren hatten wir folgende Ausgaben, die durch die Anstiftung fin
 
 -[2021](Ausgaben/Ausgaben_wiLi_2021_public.csv)
 
-## Anträge
+## Vorhaben und Anträge
+
+-[2022](Anträge/antrag_2022_public.pdf)
 
