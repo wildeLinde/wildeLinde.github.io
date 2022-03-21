@@ -8,7 +8,7 @@ Bei uns können Kinder, Jugendliche und Erwachsene, interessierte Laien, passion
 
 Der Gemeinschaftsgarten Wilde Linde ist ein lebendiger Nutzgarten. Es wird gemeinschaftlich gegärtnert und der Boden nachhaltig bewirtschaftet.
 
-Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen. Oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](wildelinde@werkstadthaus.de).
+Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen. Oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](mailto:wildelinde@werkstadthaus.de).
 
 ### Termine
 
@@ -22,13 +22,13 @@ Der Geminschaftsgarten befindet sich [zwischen dem Wildemuthgymnasium und dem 3-
 
 In den letzten Jahren hatten wir folgende Ausgaben, die durch die Anstiftung finanziert wurden:
 
--[2021](Ausgaben/Ausgaben_wiLi_2021_public.csv)
+-[Ausgabenliste für 2021](Ausgaben/Ausgaben_wiLi_2021_public.pdf)
 
 ### Berichte
 
--[Sachbericht 2021](Berichte/Sachbericht_2021_public.pdf)
+-[Sachbericht für 2021](Berichte/Sachbericht_2021_public.pdf)
 
 ### Vorhaben und Anträge
 
--[2022](Anträge/antrag_2022_public.pdf)
+-[Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
 
