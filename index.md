@@ -34,7 +34,7 @@ In der letzten Zeit hatten wir folgende Ausgaben, die durch die [Anstiftung](htt
 
 In der kommenden Zeit haben wir folgende Pläne:
 
-- [Plan](plan.pdf)
+- [Plan für 2022](plan.pdf)
 
 - [Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
 
