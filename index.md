@@ -22,19 +22,19 @@ Der Geminschaftsgarten befindet sich [zwischen dem Wildemuthgymnasium und dem 3-
 
 In der letzten Zeit haben wir unter anderem Folgendes gemacht:
 
--[Sachbericht für 2021](Berichte/Sachbericht_2021_public.pdf)
+- [Sachbericht für 2021](Berichte/Sachbericht_2021_public.pdf)
 
 ### Ausgaben
 
 In der letzten Zeit hatten wir folgende Ausgaben, die durch die [Anstiftung](https://anstiftung.de/) finanziert wurden:
 
--[Ausgabenliste für 2021](Ausgaben/Ausgaben_wiLi_2021_public.pdf)
+- [Ausgabenliste für 2021](Ausgaben/Ausgaben_wiLi_2021_public.pdf)
 
 ### Vorhaben und Anträge
 
 In der kommenden Zeit haben wir folgende Pläne:
 
--[Plan](plan.pdf)
+- [Plan](plan.pdf)
 
--[Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
+- [Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
 
