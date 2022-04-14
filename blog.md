@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 ---
 Einiges, das in der Wilden Linde passiert ist:
+
 <ul>
   {% for post in site.posts %}
     <li>
