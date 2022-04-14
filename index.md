@@ -19,4 +19,7 @@ Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Fr
 
 Der Geminschaftsgarten befindet sich [zwischen dem Wildemuthgymnasium und dem 3-in-One Bewegungspark](https://www.google.de/maps/@48.5154661,9.0471768,212m/data=!3m1!1e3). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
 
+![Beim Gärtnern](Bilder/Wilde_Linde-Gemeinschaftsgaertnern.jpg "Beim Gärtnern")
+
+
 
