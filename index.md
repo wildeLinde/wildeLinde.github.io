@@ -15,7 +15,7 @@ Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen. Oder du
 
 ### Termine
 
-Von Frühjahr bis Herbst treffen wir uns jeden Dienstag ab 15 Uhr und jeden Freitag ab 15.30 Uhr auf dem Gelände. Am Samstag, den 14. Mai ist Pflanztag. 
+Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Freitag ab 15:30** Uhr auf dem Gelände. Am **Samstag, den 14. Mai ist Pflanztag**. 
 
 ### Lage
 
