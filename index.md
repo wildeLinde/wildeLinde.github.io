@@ -1,5 +1,7 @@
-
-## Wilde Linde
+---
+layout: page
+title: Zur Wilde Linde 
+---
 
 ### Beschreibung
 

@@ -1,6 +1,9 @@
+---
+layout: page
+title: Dokumente & Pläne
+---
 
-## Dokumente
-
+## Berichte
 
 - [Sachbericht für 2021](Berichte/Sachbericht_2021_public.pdf)
 
