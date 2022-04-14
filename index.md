@@ -1,3 +1,4 @@
+
 ## Wilde Linde
 
 ### Beschreibung
@@ -38,3 +39,11 @@ In der kommenden Zeit haben wir folgende Pläne:
 
 - [Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
 
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
