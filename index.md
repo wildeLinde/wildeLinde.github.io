@@ -12,7 +12,7 @@ Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen. Oder du
 
 ### Termine
 
-Von Frühjahr bis Herbst treffen wir uns jeden Dienstag ab 15 Uhr und jeden Freitag ab 15.30 Uhr auf dem Gelände.
+Von Frühjahr bis Herbst treffen wir uns jeden Dienstag ab 15 Uhr und jeden Freitag ab 15.30 Uhr auf dem Gelände. Am Samstag, den 14. Mai ist Pflanztag. 
 
 ### Lage
 
@@ -34,7 +34,7 @@ In der letzten Zeit hatten wir folgende Ausgaben, die durch die [Anstiftung](htt
 
 In der kommenden Zeit haben wir folgende Pläne:
 
-- [Plan](plan.pdf)
+- [Plan für 2022](Anträge/plan.pdf)
 
 - [Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
 
