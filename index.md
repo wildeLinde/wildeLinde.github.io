@@ -38,3 +38,4 @@ In der kommenden Zeit haben wir folgende Pläne:
 
 - [Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
 
+(Blog)[blog.html]
