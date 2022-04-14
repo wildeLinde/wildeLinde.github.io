@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über die Wilde Linde 
+title: Zur Wilde Linde 
 ---
 
 ### Beschreibung
