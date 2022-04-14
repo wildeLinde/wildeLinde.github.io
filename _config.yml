@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima
-plugins:
+pluginsi
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
-logo: Bilder/Wilde_Linde-Gemeinschaftsgaertnern.jpg
+imagesurl: "_assets/img"
+thumbsurl: "_assets/thumbs"
