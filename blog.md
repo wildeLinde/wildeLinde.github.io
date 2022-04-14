@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Blog
 ---
 Einiges, das in der Wilden Linde passiert ist:
 
