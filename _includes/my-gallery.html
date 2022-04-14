@@ -1,4 +1,5 @@
-<div class ="image-gallery">
+<!-- todo: how to add sytle via (s)css -->
+<div class ="image-gallery" stlye = "width: 100%; display: grid; grid-template-columns: repeat(auto-fill,minmax(200px, 1fr)); justify-content: center; padding: 4px;">
   {% assign sorted = site.static_files | sort: 'date' | reverse %}
   {% for file in sorted %}
   {% if file.path contains include.folder %}
