@@ -21,23 +21,4 @@ Von Frühjahr bis Herbst treffen wir uns jeden Dienstag ab 15 Uhr und jeden Frei
 
 Der Geminschaftsgarten befindet sich [zwischen dem Wildemuthgymnasium und dem 3-in-One Bewegungspark](https://www.google.de/maps/@48.5154661,9.0471768,212m/data=!3m1!1e3). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
 
-### Berichte
-
-In der letzten Zeit haben wir unter anderem Folgendes gemacht:
-
-- [Sachbericht für 2021](Berichte/Sachbericht_2021_public.pdf)
-
-### Ausgaben
-
-In der letzten Zeit hatten wir folgende Ausgaben, die durch die [Anstiftung](https://anstiftung.de/) finanziert wurden:
-
-- [Ausgabenliste für 2021](Ausgaben/Ausgaben_wiLi_2021_public.pdf)
-
-### Vorhaben und Anträge
-
-In der kommenden Zeit haben wir folgende Pläne:
-
-- [Plan für 2022](Anträge/plan.pdf)
-
-- [Förderantrag bei der Anstiftung für 2022](Anträge/antrag_2022_public.pdf)
 
