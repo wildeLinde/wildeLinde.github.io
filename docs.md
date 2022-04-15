@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dokumente & Pläne
+title: Dokumente
 ---
 
 ## Berichte

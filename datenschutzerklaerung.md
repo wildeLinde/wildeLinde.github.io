@@ -1,30 +1,26 @@
 ---
 layout: page
+title: Datenschutzerklärung
 ---
-
-## Datenschutzerklärung
 
 Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
 
 Verantwortlich im Sinne der DSGVO ist:
 
-Fabian Schlotterbeck
-Jahnallee
-72072 Tübingen
-wildelinde@werkstadthaus.de
+Fabian Schlotterbeck  
+Jahnallee  
+72072 Tübingen  
+wildelinde@werkstadthaus.de  
 
-Sollten Sie per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten (dazu zählt ihre Email-Adresse) von uns gespeichert, um Ihr Anliegen zu bearbeiten.
-Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.
-Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten. Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
-Bitte richten Sie Ihren Widerspruch oder Widerruf formlos an:
+Sollten Sie per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten (dazu zählt ihre Email-Adresse) von uns gespeichert, um Ihr Anliegen zu bearbeiten. Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen. Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten. Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. Bitte richten Sie Ihren Widerspruch oder Widerruf formlos an:
 
-Jahnallee
-72072 Tübingen
-wildelinde@werkstadthaus.de
+Jahnallee  
+72072 Tübingen  
+wildelinde@werkstadthaus.de  
 
 Darüber hinaus haben Sie das Recht auf Datenübertragbarkeit. Sie haben weiter das Recht, sich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden finden Sie unter: [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html]( https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html)
 
-### Hosting
+## Hosting
 
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.

@@ -2,5 +2,14 @@ remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
+header_pages:
+  - index.md
+  - docs.md
+  - blog.md
+  - gallery.md
+minima:
+  skin: dark
+  social_links:
+    github: wildeLinde
 imagesurl: "/assets/img/"
 thumbsurl: "/assets/thumbs/"
