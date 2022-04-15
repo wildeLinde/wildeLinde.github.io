@@ -7,13 +7,15 @@ Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet wer
 
 Verantwortlich im Sinne der DSGVO ist:
 
-Fabian Schlotterbeck  
+Fabian Schlotterbeck
+Gemeinschaftsgarten Wilde Linde  
 Jahnallee  
 72072 Tübingen  
 wildelinde@werkstadthaus.de  
 
 Sollten Sie per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten (dazu zählt ihre Email-Adresse) von uns gespeichert, um Ihr Anliegen zu bearbeiten. Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen. Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten. Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. Bitte richten Sie Ihren Widerspruch oder Widerruf formlos an:
 
+Gemeinschaftsgarten Wilde Linde  
 Jahnallee  
 72072 Tübingen  
 wildelinde@werkstadthaus.de  
