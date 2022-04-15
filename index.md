@@ -7,7 +7,7 @@ Der Gemeinschaftsgarten "Wilde Linde" ist ein soziales und ökologisches Projekt
 
 Bei uns können Kinder, Jugendliche und Erwachsene, interessierte Laien, passionierte Gärtner und Freiluftenthusiasten -- mit drei Worten: alle, die wollen -- gemeinsam mit uns lernen, wie man lokal Lebensmittel anbaut.
 
-Der Gemeinschaftsgarten Wilde Linde ist ein lebendiger Nutzgarten. Es wird gemeinschaftlich gegärtnert und der Boden nachhaltig bewirtschaftet. Einige Berichte unsers Tuns und Pläne für die Zukunft findest Du in unseren [Dokumenten](docs).  
+Der Gemeinschaftsgarten Wilde Linde ist ein lebendiger Nutzgarten. Es wird gemeinschaftlich gegärtnert und der Boden nachhaltig bewirtschaftet. Einige Berichte unseres Tuns und Pläne für die Zukunft findest Du in unseren [Dokumenten](docs).  
 
 Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen. Oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](mailto:wildelinde@werkstadthaus.de).
 
