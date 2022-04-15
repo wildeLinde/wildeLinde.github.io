@@ -17,7 +17,7 @@ Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Fr
 
 ## Lage
 
-Der Geminschaftsgarten befindet sich [zwischen dem Wildemuthgymnasium und dem 3-in-One Bewegungspark](https://www.google.de/maps/@48.5154661,9.0471768,212m/data=!3m1!1e3). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
+Der Geminschaftsgarten befindet sich in der Jahnallee [zwischen dem Wildemuthgymnasium und dem 3-in-One Bewegungspark](https://www.google.de/maps/@48.5154661,9.0471768,212m/data=!3m1!1e3) nahe der [alten Lindenallee](https://www.baumkunde.de/baumregister/3604-alte_lindenallee_in_tuebingen/). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
 
 ![Beim Gärtnern](assets/Wilde_Linde-Gemeinschaftsgaertnern_small.jpg "Beim Gärtnern")
 
