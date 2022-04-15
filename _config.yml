@@ -7,5 +7,8 @@ header_pages:
   - docs.md
   - blog.md
   - gallery.md
+minima:
+  social_links:
+    github: wildeLinde
 imagesurl: "/assets/img/"
 thumbsurl: "/assets/thumbs/"
