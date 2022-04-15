@@ -9,11 +9,13 @@ Bei uns können Kinder, Jugendliche und Erwachsene, interessierte Laien, passion
 
 Der Gemeinschaftsgarten Wilde Linde ist ein lebendiger Nutzgarten. Es wird gemeinschaftlich gegärtnert und der Boden nachhaltig bewirtschaftet. Einige Berichte unseres Tuns und Pläne für die Zukunft findest Du in unseren [Dokumenten](docs).  
 
-Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen. Oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](mailto:wildelinde@werkstadthaus.de).
+Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](mailto:wildelinde@werkstadthaus.de).
 
 ## Termine
 
-Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Freitag ab 15:30** Uhr auf dem Gelände. Am **Samstag, den 14. Mai 2022 ist Pflanztag**. 
+Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Freitag ab 15:30** Uhr auf dem Gelände. Außerdem steht Folgendes an: 
+
+-Am **Samstag, den 14. Mai 2022 ist Pflanztag**. 
 
 ## Lage
 
