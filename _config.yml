@@ -8,8 +8,8 @@ header_pages:
   - blog.md
   - gallery.md
 minima:
+  skin: dark
   social_links:
     github: wildeLinde
-  skin: dark
 imagesurl: "/assets/img/"
 thumbsurl: "/assets/thumbs/"
