@@ -10,5 +10,6 @@ header_pages:
 minima:
   social_links:
     github: wildeLinde
+  skin: dark
 imagesurl: "/assets/img/"
 thumbsurl: "/assets/thumbs/"
