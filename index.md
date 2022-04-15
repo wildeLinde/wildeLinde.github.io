@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über die Wilde Linde 
+title: Über uns 
 ---
 
 Der Gemeinschaftsgarten "Wilde Linde" ist ein soziales und ökologisches Projekt des [Werkstadthauses](https://www.werkstadthaus.de/), gestartet in 2015.
