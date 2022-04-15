@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Datenschutzerklärung
 
 Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
