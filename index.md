@@ -16,7 +16,7 @@ Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du 
 Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Freitag ab 15:30** Uhr auf dem Gelände. Außerdem steht Folgendes an: 
 
 - Am **Samstag, den 14. Mai 2022 ist Pflanztag** 
-- Am **Samstag, den 09. Juli 2022** von 15 bis 18 Uhr ist Tag der Offenen Tür im [Werkstadthauses](https://www.werkstadthaus.de/)
+- Am **Samstag, den 09. Juli 2022** von 15 bis 18 Uhr ist Tag der Offenen Tür im [Werkstadthaus](https://www.werkstadthaus.de/)
 
 ## Lage
 
