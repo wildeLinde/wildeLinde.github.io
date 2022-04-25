@@ -11,5 +11,7 @@ minima:
   skin: dark
   social_links:
     github: wildeLinde
+url: 'https://wildeLinde.github.io/'
+baseurl: ''
 imagesurl: "/assets/img/"
 thumbsurl: "/assets/thumbs/"
