@@ -3,7 +3,7 @@ layout: page
 title: Über uns 
 ---
 
-Der Gemeinschaftsgarten "Wilde Linde" ist ein soziales und ökologisches Projekt des [Werkstadthauses](https://www.werkstadthaus.de/), gestartet in 2015.
+Der Gemeinschaftsgarten "Wilde Linde" ist ein soziales und ökologisches Projekt des [Werkstadthauses](https://www.werkstadthaus.de/), gestartet in 2015. Es wird von der [Anstiftung](https://anstiftung.de/) gefördert.
 
 Bei uns können Kinder, Jugendliche und Erwachsene, interessierte Laien, passionierte Gärtner und Freiluftenthusiasten -- mit drei Worten: alle, die wollen -- gemeinsam mit uns lernen, wie man lokal Lebensmittel anbaut.
 
