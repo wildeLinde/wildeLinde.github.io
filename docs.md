@@ -12,6 +12,7 @@ In der kommenden Zeit haben wir folgende Pläne:
 
 ## Berichte
 
+- [Sachbericht für 2022](Berichte/Sachbericht_2022_public.pdf)
 - [Sachbericht für 2021](Berichte/Sachbericht_2021_public.pdf)
 
 ## Ausgaben
