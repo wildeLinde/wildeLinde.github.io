@@ -10,7 +10,7 @@ header_pages:
 minima:
   skin: dark
   social_links:
-    github: wildeLinde
+    - { platform: github,  user_url: "https://wildeLinde.github.io/" }
 url: 'https://wildeLinde.github.io/'
 baseurl: ''
 imagesurl: "/assets/img/"
