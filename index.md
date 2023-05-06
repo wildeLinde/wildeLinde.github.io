@@ -15,6 +15,8 @@ Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du 
 
 Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Freitag ab 15:30** Uhr auf dem Gelände.
 
+Am **Samstag,den 13.05. von 10 bis 15 Uhr ist Pflanztag**. Unterstützung ist dabei sehr willkommen!  
+
 ## Lage
 
 Der Geminschaftsgarten befindet sich in der Jahnallee [zwischen dem Wildemuthgymnasium und dem 3-in-One Bewegungspark](https://www.google.de/maps/place/48.515424+9.046746/@48.5154661,9.0471768,212m/data=!3m1!1e3) nahe der [alten Lindenallee](http://www.tuepedia.de/index.php/Alte_Lindenallee). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
