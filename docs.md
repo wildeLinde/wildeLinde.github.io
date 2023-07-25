@@ -21,4 +21,4 @@ In der kommenden Zeit haben wir folgende Pläne:
 In der letzten Zeit hatten wir folgende Ausgaben, die durch die [Anstiftung](https://anstiftung.de/) finanziert wurden:
 
 - [Ausgabenliste für 2021](Ausgaben/Ausgaben_wiLi_2021_public.pdf)
-- [Ausgabenliste für 2021](Ausgaben/Ausgaben_wiLi_2022_public.pdf)
+- [Ausgabenliste für 2022](Ausgaben/Ausgaben_wiLi_2022_public.pdf)
