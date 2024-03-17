@@ -6,7 +6,7 @@ title: Dokumente
 ## Vorhaben und Anträge
 In der kommenden Zeit haben wir folgende Pläne:
 
-- [Plan für 2024](Anträge/plan_2023.pdf)
+- [Plan für 2024](Anträge/plan_2024.pdf)
 - [Förderantrag bei der Anstiftung für 2023](Anträge/proposal_2024_public.pdf)
 
 Zuvor diese:
