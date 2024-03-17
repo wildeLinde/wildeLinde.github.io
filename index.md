@@ -23,4 +23,4 @@ Der Geminschaftsgarten befindet sich in der Jahnallee [zwischen dem Wildemuthgym
 ![Beim Gärtnern](assets/Wilde_Linde-Gemeinschaftsgaertnern_small.jpg "Beim Gärtnern")
 
 
-
+[![Urbane Gemeinschaftsg&auml;rten](https://urbane-gaerten.de/images/hilfe/Button_rund.png)](https://urbane-gaerten.de/)
