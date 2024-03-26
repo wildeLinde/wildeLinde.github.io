@@ -35,4 +35,4 @@ In der letzten Zeit hatten wir folgende Ausgaben, die durch die [Anstiftung](htt
 
 ## Plakat
 
-[![Poster](assets/WildeLindePlakat_Var2.png)](assets/WildeLindePlakat_Var2.pdf)
+[![Poster](assets/WildeLindePlakat_Var2.1.png)](assets/WildeLindePlakat_Var2.pdf)
