@@ -32,3 +32,7 @@ In der letzten Zeit hatten wir folgende Ausgaben, die durch die [Anstiftung](htt
 - [Ausgabenliste für 2022](Ausgaben/Ausgaben_wiLi_2022_public.pdf)
 - [Ausgabenliste für 2021](Ausgaben/Ausgaben_wiLi_2021_public.pdf)
 
+
+## Plakat
+
+[![Poster](assets/WildeLindePlakat_Var2.png)](assets/WildeLindePlakat_Var2.pdf)
