@@ -13,8 +13,9 @@ Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du 
 
 ## Termine
 
-Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag ab 15 Uhr und jeden Freitag ab 15:30** Uhr auf dem Gelände.
+Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag und jeden Freitag ab ca. 15:30 Uhr** Uhr auf dem Gelände.
 
+Am **Samstag, den 11.05.2024 von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!   
 
 ## Lage
 
