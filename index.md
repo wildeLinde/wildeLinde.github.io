@@ -21,6 +21,10 @@ Am **Samstag, den 11.05.2024 von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uh
 
 Der Geminschaftsgarten befindet sich in der Jahnallee [zwischen dem Wildemuthgymnasium und dem 3-in-One Bewegungspark](https://www.google.de/maps/place/48.515424+9.046746/@48.5154661,9.0471768,212m/data=!3m1!1e3) nahe der [alten Lindenallee](http://www.tuepedia.de/index.php/Alte_Lindenallee). Weithin sichtbar ist zudem der Bauwagen am Rande des Gemeinschaftsgartens.
 
+## Neuigkeiten
+
+Am 30. August 2024 erschien ein [Artikel über die Wilde Linde im schwäbischen Tagblatt](https://www.tagblatt.de/Nachrichten/Gartenprojekt-in-Tuebinger-Jahnallee-sucht-neue-Mitgaertner-637187.html#UserContentModule) mit Gesuch nach Verstärkung. 
+
 ![Beim Gärtnern](assets/Wilde_Linde-Gemeinschaftsgaertnern_small.jpg "Beim Gärtnern")
 
 
