@@ -9,13 +9,13 @@ Bei uns können Kinder, Jugendliche und Erwachsene, interessierte Laien, passion
 
 Der Gemeinschaftsgarten Wilde Linde ist ein lebendiger Nutzgarten. Es wird gemeinschaftlich gegärtnert und der Boden nachhaltig bewirtschaftet. Einige Berichte unseres Tuns und Pläne für die Zukunft findest Du in unseren [Dokumenten](docs).  
 
-Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](mailto:wildelinde@werkstadthaus.de). Wenn Du einfach informiert bleiben möchtest, kannst Dich in unsere offene [Mailingliste](https://lists.posteo.de/listinfo/wilde-linde) eintragen. Darüber kannst Du uns auch [schreiben](mailto:https://lists.posteo.de/listinfo/wilde-linde).
+Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](mailto:wildelinde@werkstadthaus.de). Wenn Du einfach informiert bleiben möchtest, kannst Dich in unsere offene [Mailingliste](https://lists.posteo.de/listinfo/wilde-linde) eintragen. Darüber kannst Du uns auch [schreiben](mailto:wilde-linde@lists.posteo.de).
 
 ## Termine
 
 Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag und jeden Freitag ab ca. 15:30 Uhr** Uhr auf dem Gelände.
 
-Am **Samstag, den 11.05.2024 von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!   
+<!-- Am **Samstag, den tt.mm.jjjj von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!    -->
 
 ## Lage
 
