@@ -7,7 +7,7 @@ Der Gemeinschaftsgarten "Wilde Linde" ist ein soziales und ökologisches Projekt
 
 Bei uns können Kinder, Jugendliche und Erwachsene, interessierte Laien, passionierte Gärtner und Freiluftenthusiasten -- mit drei Worten: alle, die wollen -- gemeinsam mit uns lernen, wie man lokal Lebensmittel anbaut.
 
-Der Gemeinschaftsgarten Wilde Linde ist ein lebendiger Nutzgarten. Es wird gemeinschaftlich gegärtnert und der Boden nachhaltig bewirtschaftet. Die Wilde Linde ist eine [Bunte Wiese](https://www.buntewiese-tuebingen.de). Einige Berichte unseres Tuns und Pläne für die Zukunft findest Du in unseren [Dokumenten](docs).  
+Der Gemeinschaftsgarten Wilde Linde ist ein lebendiger Nutzgarten. Es wird gemeinschaftlich gegärtnert und der Boden nachhaltig bewirtschaftet. Die Wilde Linde ist eine [Bunte Wiese](https://www.buntewiese-tuebingen.de) und ein [torffreier Garten](https://www.NABU.de/torffrei). Einige Berichte unseres Tuns und Pläne für die Zukunft findest Du in unseren [Dokumenten](docs).  
 
 Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du schreibst eine Mail an [wildelinde@werkstadthaus.de](mailto:wildelinde@werkstadthaus.de). Wenn Du einfach informiert bleiben möchtest, kannst Dich in unsere offene [Mailingliste](https://lists.posteo.de/listinfo/wilde-linde) eintragen. Darüber kannst Du uns auch [schreiben](mailto:wilde-linde@lists.posteo.de).
 
