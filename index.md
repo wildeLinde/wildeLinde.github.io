@@ -13,7 +13,9 @@ Interesse? Gerne kannst du die Gärtnernden im Garten direkt ansprechen oder du 
 
 ## Termine
 
-Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag und jeden Freitag ab ca. 15:30 Uhr** Uhr auf dem Gelände.
+Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag und jeden Freitag ab ca. 16:00 Uhr** Uhr auf dem Gelände.
+
+Am **Samstag, den 10.05.2023 von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!
 
 <!-- Am **Samstag, den tt.mm.jjjj von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!    -->
 
@@ -24,7 +26,7 @@ Der Geminschaftsgarten befindet sich in der Jahnallee [zwischen dem Wildemuthgym
 ## Neuigkeiten
 
 - Am 30. August 2024 erschien ein [Artikel über die Wilde Linde im schwäbischen Tagblatt](https://www.tagblatt.de/Nachrichten/Gartenprojekt-in-Tuebinger-Jahnallee-sucht-neue-Mitgaertner-637187.html#UserContentModule) mit Gesuch nach Verstärkung. 
-- Am 1. April 2025 wird Fabian Schlotterbeck eine sogenannte Eltern AG mit Schülern und Schülerinnen der Lindenbrunnenschule anleiten und Schwebfliegenlagunen im Gemeinschaftsgarten  bauen. 
+- Am 1. April 2025 hat Fabian Schlotterbeck eine sogenannte Eltern AG mit Schülern und Schülerinnen der Lindenbrunnenschule angeleitet und Schwebfliegenlagunen im Gemeinschaftsgarten  gebaut. 
 
 
 ---
