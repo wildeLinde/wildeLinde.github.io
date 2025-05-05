@@ -26,8 +26,8 @@ Der Geminschaftsgarten befindet sich in der Jahnallee [zwischen dem Wildemuthgym
 ## Neuigkeiten
 
 - Am 30. August 2024 erschien ein [Artikel über die Wilde Linde im schwäbischen Tagblatt](https://www.tagblatt.de/Nachrichten/Gartenprojekt-in-Tuebinger-Jahnallee-sucht-neue-Mitgaertner-637187.html#UserContentModule) mit Gesuch nach Verstärkung. 
-- Am 1. April 2025 hat Fabian Schlotterbeck eine sogenannte Eltern AG mit Schülern und Schülerinnen der Lindenbrunnenschule angeleitet und Schwebfliegenlagunen im Gemeinschaftsgarten  gebaut. 
-
+- Am 1. April 2025 hat Fabian Schlotterbeck eine sogenannte Eltern-AG mit Schülern und Schülerinnen der Lindenbrunnenschule angeleitet und Schwebfliegenlagunen im Gemeinschaftsgarten  gebaut. 
+- Zusammen mit der Umwelt AG des benachbarten Wildermuth Gymnasiums haben wir ein neues Hochbeet im Garten aufgebaut, das wir vom scheidenden Pop-Up Gemeinschaftsgarten "Gleisgarten" geschenkt bekommen haben.
 
 ---
 
