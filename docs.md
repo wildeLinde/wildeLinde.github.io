@@ -20,6 +20,7 @@ Zuvor diese:
 
 In der letzten Zeit haben wir Folgendes gemacht:
 
+- [Sachbericht für 2024](Berichte/Sachbericht_2024_public.pdf)
 - [Sachbericht für 2023](Berichte/Sachbericht_2023_public.pdf)
 - [Sachbericht für 2022](Berichte/Sachbericht_2022_public.pdf)
 - [Sachbericht für 2021](Berichte/Sachbericht_2021_public.pdf)
