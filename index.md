@@ -17,7 +17,7 @@ Von Frühjahr bis Herbst treffen wir uns **jeden Dienstag und jeden Freitag ab c
 
 Am **Samstag, den 10.05.2023 von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!
 
-<!-- Am **Samstag, den tt.mm.jjjj von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!    -->
+Am **Samstag, den 9.5.2026 von 10:30 bzw. 9:30 bereits am Marktladen bis 16 Uhr ist wieder Pflanztag in der Wilden Linde**. Über Unterstützung freuen wir uns sehr!   
 
 ## Lage
 
@@ -25,9 +25,8 @@ Der Geminschaftsgarten befindet sich in der Jahnallee [zwischen dem Wildemuthgym
 
 ## Neuigkeiten
 
-- Am 31. Mai 2025 präsentiert sich die Wilde Linde auf dem [Stadteilfest im französischen Viertel](https://neustart-solewo.de/files/bilder/aktuelles/news/2025/Flyer%20Stadtteilfest%20Maribude%20Neustart.pdf) in Tübingen, in den ehemaligen Diedler-Autohallen
+- Die [Schulgarten-AG](https://www.kepi.de/cms/fileadmin/projekte-ags/AG-Schulgarten_Aushang.pdf) der benachbarten Wildermuth und Kepler Gymnasien hat 2026 begonnen, Beete anzulegen und eines unserer Hochbeete zu bewirtschaften
 - Zusammen mit der Umwelt AG des benachbarten Wildermuth Gymnasiums haben wir ein neues Hochbeet im Garten aufgebaut, das wir vom scheidenden Pop-Up Gemeinschaftsgarten "Gleisgarten" geschenkt bekommen haben
-- Am 1. April 2025 hat Fabian Schlotterbeck eine sogenannte Eltern-AG mit Schülern und Schülerinnen der Lindenbrunnenschule angeleitet und Schwebfliegenlagunen im Gemeinschaftsgarten  gebaut
 - Am 30. August 2024 erschien ein [Artikel über die Wilde Linde im schwäbischen Tagblatt](https://www.tagblatt.de/Nachrichten/Gartenprojekt-in-Tuebinger-Jahnallee-sucht-neue-Mitgaertner-637187.html#UserContentModule) mit Gesuch nach Verstärkung
 
 
